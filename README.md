@@ -1,4 +1,4 @@
-# Quick intro to FLask
+# Quick intro to Flask
 Fancy a quick intro to flask? Read on...
 
 **Note** : You would need to know some basic python and a basic idea of what a webservice means
